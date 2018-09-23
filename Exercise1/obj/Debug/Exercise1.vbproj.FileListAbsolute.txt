@@ -1,0 +1,14 @@
+C:\Users\Surface\source\repos\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Surface\source\repos\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Surface\source\repos\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Surface\source\repos\Exercise1\Exercise1\bin\Debug\Exercise1.xml
+C:\Users\Surface\source\repos\Exercise1\Exercise1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.vbprojAssemblyReference.cache
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.Form1.resources
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.Resources.resources
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.vbproj.GenerateResource.cache
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.vbproj.CoreCompileInputs.cache
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.vbproj.CopyComplete
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.xml
+C:\Users\Surface\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
